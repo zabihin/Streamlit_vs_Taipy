@@ -1,0 +1,21 @@
+City,Country,Population,Area,Latitude,Longitude,GDP per Capita,Region
+Paris,France,2161000,105.4,48.8566,2.3522,60000,Île-de-France
+Marseille,France,861635,240.62,43.2965,5.3698,40000,Provence-Alpes-Côte d'Azur
+Lyon,France,513275,47.87,45.764,4.8357,45000,Auvergne-Rhône-Alpes
+Toulouse,France,479553,118.3,43.6045,1.4442,37000,Occitanie
+Nice,France,341032,71.92,43.7102,7.2619,35000,Provence-Alpes-Côte d'Azur
+Nantes,France,309346,65.19,47.2184,-1.5536,34000,Pays de la Loire
+Strasbourg,France,280966,78.26,48.5734,7.7521,32000,Grand Est
+Montpellier,France,285121,56.88,43.6108,3.8767,31000,Occitanie
+Bordeaux,France,254436,49.36,44.8378,-0.5792,39000,Nouvelle-Aquitaine
+Lille,France,232440,39.57,50.6292,3.0573,33000,Hauts-de-France
+Rennes,France,216815,50.39,48.1173,-1.6778,36000,Brittany
+Reims,France,182460,46.9,49.2628,4.0317,30000,Grand Est
+Le Havre,France,172807,46.95,49.4944,0.107,29500,Normandy
+Saint-Étienne,France,172565,79.97,45.4397,4.3872,30500,Auvergne-Rhône-Alpes
+Toulon,France,171953,42.84,43.1242,5.9305,28000,Provence-Alpes-Côte d'Azur
+Grenoble,France,158454,18.13,45.1885,5.7245,31500,Auvergne-Rhône-Alpes
+Dijon,France,156920,40.41,47.322,5.0415,29000,Bourgogne-Franche-Comté
+Angers,France,152960,42.7,47.4784,-0.5515,30500,Pays de la Loire
+Nîmes,France,150610,161.85,43.8367,4.3601,27500,Occitanie
+Villeurbanne,France,148656,14.52,45.7719,4.8813,26500,Auvergne-Rhône-Alpes
