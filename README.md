@@ -25,12 +25,14 @@ The dashboard focuses on visualizing data related to French cities, showcasing f
 
 - **Sidebar Integration**: Addition of a sidebar to provide additional navigation or information context.
 - codes: streamlit_script_3.py , taipy_script_3.py
+
 | Streamlit | Taipy |
 |-----------|-------|
 | ![Streamlit Simple Page View](https://github.com/zabihin/Streamlit_vs_Taipy/blob/main/Pics/3s.png) | ![Taipy Simple Page View](https://github.com/zabihin/Streamlit_vs_Taipy/blob/main/Pics/3t.png) |
 
 - **Chart Visualization**: Utilization of Plotly Express within both frameworks to embed interactive charts for data visualization.
 - codes: streamlit_script_4.py , taipy_script_4.py
+
 | Streamlit | Taipy |
 |-----------|-------|
 | ![Streamlit Simple Page View](https://github.com/zabihin/Streamlit_vs_Taipy/blob/main/Pics/4s.png) | ![Taipy Simple Page View](https://github.com/zabihin/Streamlit_vs_Taipy/blob/main/Pics/4t.png) |
@@ -38,6 +40,7 @@ The dashboard focuses on visualizing data related to French cities, showcasing f
 
 - **Column Layout**: Introduction of column layouts to organize content and controls more effectively on the page.
 - codes: streamlit_script_5.py , taipy_script_5.py
+
 | Streamlit | Taipy |
 |-----------|-------|
 | ![Streamlit Simple Page View](https://github.com/zabihin/Streamlit_vs_Taipy/blob/main/Pics/5s.png) | ![Taipy Simple Page View](https://github.com/zabihin/Streamlit_vs_Taipy/blob/main/Pics/5t.png) |
