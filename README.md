@@ -13,7 +13,7 @@ The dashboard focuses on visualizing data related to French cities, showcasing f
 <br|
 | Streamlit    | Taipy          |
 |----------------|----------------|
-|![] Pics/1s.png | ![] Pics/1t.png|
+|![] https://github.com/zabihin/Streamlit_vs_Taipy/blob/main/Pics/1s.png | ![] Pics/1t.png|
 |br>
 - **Data Frame Display**: Implementation of data frame views to present tabular data effectively.
 codes: streamlit_script_2.py , taipy_script_2.py
